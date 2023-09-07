@@ -1,5 +1,4 @@
 # Metacrafters Getting  Started with Solidity Submission
-# Hello World
 
 This is the solidity program submission for the final module of Metacrafters Getting Started with  Solidity course. In this I've created a simple contract with 2 basic function : minting and burning and also balance mapping. 
 
